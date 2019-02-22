@@ -1,4 +1,4 @@
-##笔趣阁网小说爬虫
+## 笔趣阁网小说爬虫
 
 ### 使用说明
 
@@ -10,10 +10,10 @@
 
 #### 1、准备工作
 
-```
->在config.py文件中修改（URL、name）
->例子(url = 'https://www.qu.la/book/38531/' name='大王饶命.txt')
-```
+
+> 在config.py文件中修改（URL、name）
+> 例子(url = 'https://www.qu.la/book/38531/' name='大王饶命.txt')
+
 
 #### 2、运行方式
 
